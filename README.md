@@ -1,1 +1,1 @@
-Aplicaçao Fridge, para CRUD (CREATE, DELETE, UPDATE, DELETE) de alimentos.
+Aplicaçao Fridge, para CRUD (CREATE, READ, UPDATE, DELETE) de alimentos.
